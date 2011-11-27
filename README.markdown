@@ -1,4 +1,4 @@
 # Ruby on Rails Tutorial: first application
 
 
-This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Example*](http://madnesszombie.org.ua) by MM3
+This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Example*](rubyonrails.org) by MM3
